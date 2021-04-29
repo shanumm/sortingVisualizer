@@ -1,0 +1,9 @@
+.array{
+    display: flex;
+}
+
+.array-bar{
+    width: 2px;
+    margin-right: 1px;
+    background-color: pink;
+}
